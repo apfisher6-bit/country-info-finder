@@ -107,3 +107,4 @@ The app uses the [REST Countries API](https://restcountries.com/) to fetch real-
 - Add loading states or spinners
 - Improve error messages
 # country-info-finder
+# country-info-finder
